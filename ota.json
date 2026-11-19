@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1795028955,
-      "filename": "FerOS-1.8.1-20261118-UNOFFICIAL-Mi8937_4_19.zip",
-      "id": "3d522b372d27de5d097b48a8fe1298f9cdd376b499367dbe9233426487f88925",
+      "datetime": 1795052808,
+      "filename": "FerOS-1.8.2-20261119-UNOFFICIAL-Mi8937_4_19.zip",
+      "id": "6428ad4a5d566c1044932248db9f62ee9b692a6ad00db84bff86fb08786b532d",
       "romtype": "unofficial",
-      "size": 916493872,
-      "url": "https://github.com/fere228Github/FerOS-OTA/releases/download/v1.8.1/FerOS-1.8.1-20261118-UNOFFICIAL-Mi8937_4_19.zip",
+      "size": 908054030,
+      "url": "https://github.com/fere228Github/FerOS-OTA/releases/download/v1.8.2/FerOS-1.8.2-20261119-UNOFFICIAL-Mi8937_4_19.zip",
       "version": "1.8"
     }
   ]
